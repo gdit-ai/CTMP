@@ -1,0 +1,2 @@
+Model               	Val PSNR  	Val Time [ms] 	Params [M]	FLOPs [G] 	Acts [M]	Mem [M] 	Conv    
+05_CTMP             	30.30     	25287.67      	35.917    	158.41    	1863.85 	441.57  	 304    
